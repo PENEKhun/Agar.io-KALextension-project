@@ -1,4 +1,2 @@
-# Lord-of-Sqlinjection
-# Lord-of-Sqlinjection
-# Lord-of-Sqlinjection
-# Lord-of-Sqlinjection
+#This is developed by PENEK, hun
+#The project ended in 2015.
